@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Internship Portal</title>
+    <style>
+        /* Define CSS styles for different sections */
+        .header {
+            background-color: #3498db; /* Blue color */
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .about {
+            background-color: #e74c3c; /* Red color */
+            color: #fff;
+            padding: 30px;
+        }
+
+        .opportunities {
+            background-color: #27ae60; /* Green color */
+            color: #fff;
+            padding: 40px;
+        }
+
+        .contact {
+            background-color: #f39c12; /* Orange color */
+            color: #fff;
+            padding: 50px;
+        }
+
+        /* Style for the image */
+        .image-container {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to vaultofcodes Internship Portal</h1>
+    </div>
+
+    <div class="about">
+        <h2>About Us</h2>
+        <p>We provide exciting internship opportunities for students and recent graduates.</p>
+    </div>
+
+    <div class="opportunities">
+        <h2>Internship Opportunities</h2>
+        <p>Explore our current internship openings and kickstart your career.</p>
+    </div>
+
+    <div class="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, feel free to contact us at internships@example.com.</p>
+    </div>
+
+    <!-- Insert an image -->
+    <div class="image-container">
+        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*M4bxiCIjcTK-2Xr6.jpeg" alt="Internship Image" width="300">
+    </div>
+</body>
+</html>
